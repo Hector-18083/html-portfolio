@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Resume</title>
+    </head>
+
+    <body>
+        I'm a 12th passed student and learning web development for freelancing. I'm also 
+        applying for a college in germany for computer science and plan on becoming an 
+        entrepreneur. I currently speek 2 languages and learning 2 other for fun.
+        <hr>
+        <h2>Education</h2>
+        I have studied and passed from La Martiniere College in 2025.
+        <h2>Work Experience</h2>
+        im currently a student and learning web devlopment as a side skill.
+        <h2>Skills</h2>
+        i love to cook and try and experiment with different different types of cusines.
+        i also love to read books and learning as many language as i can.
+    
+       
+
+
+    </body>
+
+
+</html>
